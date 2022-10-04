@@ -1,4 +1,4 @@
-# :notebook: Défi du projet Git/Github - DIO
+# :notebook: Défi du projet Git/Github - DIO :FR:
 
 ## :floppy_disk: À propos
 
