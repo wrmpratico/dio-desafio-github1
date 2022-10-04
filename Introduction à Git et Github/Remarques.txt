@@ -3,7 +3,9 @@ Lien pour télécharger Git: https://git-scm.com/downloads
 Git est un logiciel de gestion de version. Il est le logiciel leader et indispensable pour tous développeurs et développeuses.
 
 Mais c'est quoi un « logiciel de gestion de version » ?
-Un logiciel de gestion de version (ou simplement un « logiciel de versioning ») est un logiciel qui permet de conserver tout l’historique des modifications effectuées sur un projet et, avec ça, on peut revenir plus tard à une ancienne version en cas de quelques problèmes. Cet enregistrement d'une version s'appelle un « commit ».
+Un logiciel de gestion de version (ou simplement un « logiciel de versioning ») est un logiciel qui permet de conserver tout l’historique 
+des modifications effectuées sur un projet et, avec ça, on peut revenir plus tard à une ancienne version en cas de quelques problèmes. 
+Cet enregistrement d'une version s'appelle un « commit ».
 
 Pour comprendre la définition d'un commit, on doit connaître l'organisation des donnees sur Git. 
 Il y a 04 types d'objets dans Git:
@@ -21,4 +23,5 @@ Alors maintenant qu'on connaît déjà mieux le Git, c'est le moment pour conna�
 Lien pour créer un compte Github: https://github.com/
 
 Github est un site web / une plateforme qui permet de stocker gratuitement vos projets, tant qu’ils restent open source (publiques). 
-Dans Github on peut cloner un projet, forker un projet (créer votre propre copie du projet sur Github) et aussi partager votre connaissance avec les projets d’autres personnes.
+Dans Github on peut cloner un projet, forker un projet (créer votre propre copie du projet sur Github) et aussi partager votre connaissance avec 
+les projets d’autres personnes.
